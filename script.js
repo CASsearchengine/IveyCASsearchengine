@@ -60,7 +60,7 @@ buttonEl.addEventListener("click", () => {     // Checks if jsonData is loaded -
           
         // Append the name, sublocation, and link to the result box
             resultBox.appendChild(name);
-            resultBox.appendChild(sub-location);
+            resultBox.appendChild(sublocation);
             resultBox.appendChild(link);
             resultsContainer.appendChild(resultBox);
         });
