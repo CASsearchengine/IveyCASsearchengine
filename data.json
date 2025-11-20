@@ -3083,7 +3083,7 @@
     "Type": "Chemical",
     "Category": "Blue (health)",
     "Location": "Chem Storeroom (Ivey 203A)",
-    "Sub-location": "B1",
+    "Sublocation": "B1",
     "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/n9829?userType=anonymous"
   },
     {
@@ -3092,7 +3092,7 @@
     "Type": "Chemical",
     "Category": "Green (general)",
     "Location": "Chem Storeroom (Ivey 203A)",
-    "Sub-location": "E4",
+    "Sublocation": "E4",
     "URL": "https://www.cospheric.com/Shared/Public%20Documents/SDS-350.pdf"
   },
    {
@@ -3101,7 +3101,7 @@
     "Type": "Chemical",
     "Category": "Blue (health)",
     "Location": "Refrigerator (Ivey 203)",
-    "Sub-location": "R4",
+    "Sublocation": "R4",
     "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/e4268?userType=red"
   },
   {
@@ -3110,7 +3110,7 @@
     "Type": "",
     "Category": "",
     "Location": "",
-    "Sub-location": "",
+    "Sublocation": "",
     "URL": ""
   }
 ]
