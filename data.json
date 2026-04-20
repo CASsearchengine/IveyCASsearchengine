@@ -3105,22 +3105,22 @@
     "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/e4268?userType=red"
   },
   {
-    "CAS": "",
-    "Name": "",
-    "Type": "",
-    "Category": "",
-    "Location": "",
+    "CAS": "590-46-5",
+    "Name": "Betaine hydrochloride",
+    "Type": "Chemical",
+    "Category": "White (corrosive)",
+    "Location": "Refrigerator",
     "Sublocation": "",
-    "URL": ""
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/b3501?userType=undefined"
   },
   {
     "CAS": "",
-    "Name": "",
+    "Name": "PTC Paper test strips",
     "Type": "",
     "Category": "",
-    "Location": "",
-    "Sublocation": "",
-    "URL": ""
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sublocation": "E3",
+    "URL": "Do not need labelling as hazardous"
   },
   {
     "CAS": "",
