@@ -148,7 +148,7 @@
   },
   {
     "CAS": "103-30-0",
-    "Name": "trans-Stilbene",
+    "Name": "trans-Stilbene, (E)-stilbene",
     "Type": "Chemical",
     "Category": "Blue (health)",
     "Location": "Chem Storeroom (Ivey 203A)",
@@ -1041,7 +1041,8 @@
     "Name": "Rhodamine B Isothiocyanate",
     "Type": "Enzyme",
     "Category": "Blue (health)",
-    "Location": "F2",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sublocation": "F2",
     "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/283924?userType=anonymous"
   },
   {
@@ -1050,6 +1051,7 @@
     "Type": "Chemical",
     "Category": "Green (general)",
     "Location": "Chem Storeroom (Ivey 203A)",
+    "Sublocation": "E1",
     "Requested By": "Teriko Macconnell",
     "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/63062?userType=anonymous"
   },
@@ -1059,6 +1061,7 @@
     "Type": "Chemical",
     "Category": "Yellow (oxidizer)",
     "Location": "Chem Storeroom (Ivey 203A)",
+    "Sublocation": "A3",
     "Requested By": "Jim Killarney",
     "URL": "https://www.fishersci.com/store/msds?partNumber=AC442132500&productDescription=PYRIDINE+HYDROBROMIDE+9+250GR&vendorId=VN00032119&countryCode=US&language=en"
   },
@@ -1068,6 +1071,7 @@
     "Type": "Chemical",
     "Category": "Yellow (oxidizer)",
     "Location": "Chem Storeroom (Ivey 203A)",
+    "Sublocation": "A3", 
     "Requested By": "Teriko Macconnell",
     "URL": "https://www.sigmaaldrich.cn/US/en/sds/aldrich/133248"
   },
